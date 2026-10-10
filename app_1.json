@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "AI Hub - All AIs",
+    "slug": "ai-hub-all-ais",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#0a0a0f",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "bundleIdentifier": "com.robertgonza.aihub",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.robertgonza.aihub",
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0a0f"
+      }
+    },
+    "plugins": []
+  }
+}
